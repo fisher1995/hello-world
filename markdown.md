@@ -3,6 +3,7 @@
 
 *goto* [lovecust.com](http://lovecust.com/)
 
+![android screenshot samples](https://raw.githubusercontent.com/lovecust/lovecust-assets/master/images/app-screenshot/lovecust-app-home-framed-min.png) ![android screenshot samples](https://raw.githubusercontent.com/lovecust/lovecust-assets/master/images/app-screenshot/lovecust-ecust-wifi-framed-min.png) ![android screenshot samples](https://raw.githubusercontent.com/lovecust/lovecust-assets/master/images/app-screenshot/lovecust-ecust-library-framed-min.png) ![android screenshot samples](https://raw.githubusercontent.com/lovecust/lovecust-assets/master/images/app-screenshot/lovecust-ecust-calendar-framed-min.png)
 
 ## Latest
 
@@ -16,7 +17,7 @@
 - md5: 5e8d99bf69f15bfc006b318916953879
 - sha1: a4950f82babb01b720f7436d1dbd348fb540f979
 - size: 3.86 MB
-- date: 2016-05-31
+- date: **2016-05-31**
 - about: 
 	- Lovecust 服务于华理学生和教职工，荣幸能够与您共同成长 *_*
 	- Lovecust 目标是让生活变得简单，高效率，轻松. ..
