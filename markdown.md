@@ -3,7 +3,10 @@
 
 *goto* [lovecust.com](http://lovecust.com/)
 
-![android screenshot samples](https://raw.githubusercontent.com/lovecust/lovecust-assets/master/images/app-screenshot/lovecust-app-home-framed-min.png) ![android screenshot samples](https://raw.githubusercontent.com/lovecust/lovecust-assets/master/images/app-screenshot/lovecust-ecust-wifi-framed-min.png) ![android screenshot samples](https://raw.githubusercontent.com/lovecust/lovecust-assets/master/images/app-screenshot/lovecust-ecust-library-framed-min.png) ![android screenshot samples](https://raw.githubusercontent.com/lovecust/lovecust-assets/master/images/app-screenshot/lovecust-ecust-calendar-framed-min.png)
+<img src="https://raw.githubusercontent.com/lovecust/lovecust-assets/master/images/app-screenshot/lovecust-app-home-framed-min.png" alt="android screenshot samples" width="45%">
+<img src="https://raw.githubusercontent.com/lovecust/lovecust-assets/master/images/app-screenshot/lovecust-ecust-wifi-framed-min.png" alt="android screenshot samples" width="45%">
+<img src="https://raw.githubusercontent.com/lovecust/lovecust-assets/master/images/app-screenshot/lovecust-ecust-library-framed-min.png" alt="android screenshot samples" width="45%">
+<img src="https://raw.githubusercontent.com/lovecust/lovecust-assets/master/images/app-screenshot/lovecust-ecust-calendar-framed-min.png" alt="android screenshot samples" width="45%">
 
 ## Latest
 
