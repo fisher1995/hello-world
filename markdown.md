@@ -8,7 +8,9 @@
 <img src="https://raw.githubusercontent.com/lovecust/lovecust-assets/master/images/app-screenshot/lovecust-ecust-library-framed-min.png" alt="android screenshot samples" width="45%">
 <img src="https://raw.githubusercontent.com/lovecust/lovecust-assets/master/images/app-screenshot/lovecust-ecust-calendar-framed-min.png" alt="android screenshot samples" width="45%">
 
-## Latest
+## Latest Activities
+
+---
 
 ### lovecust.[v0.9.4](https://github.com/lovecust/lovecust-assets/raw/master/releases/lovecust.v0.9.4.apk).apk
 
@@ -20,7 +22,7 @@
 - md5: 5e8d99bf69f15bfc006b318916953879
 - sha1: a4950f82babb01b720f7436d1dbd348fb540f979
 - size: 3.86 MB
-- date: **2016-05-31**
+- date: <span style="color: purple;font-size: small;font-weight: bold;">2016-05-31</span>
 - about: 
 	- Lovecust 服务于华理学生和教职工，荣幸能够与您共同成长 *_*
 	- Lovecust 目标是让生活变得简单，高效率，轻松. ..
